@@ -8,17 +8,20 @@ repo_name: GitHub
 
 nav:
   - 🏠 Home: index.md
-  - 💼 Projects: projects.md
+  - 💼 Projects:
+      - Overview: projects.md  # Link to the summary page
+      - Project 1: projects/project_1.md  # Direct link to Project 1
+      - Project 2: projects/project_2.md  # Direct link to Project 2
   - 🧠 Skills: skills.md
-  - ✍️ Blog: blogs.md
+  - ✍️ Blogs: blogs.md
   - 📄 Resume: resume.md
   - 📬 Contact: contact.md
   - 🙋 About Me: about.md
 
 theme:
   name: material
+  favicon: assets/images/favicon.png
   logo: assets/images/logo.png
-  favicon: assets/images/favicon.ico
   font:
     text: Roboto
     code: JetBrains Mono
@@ -51,6 +54,11 @@ theme:
     - content.back-to-top
     - announce.dismiss
     - header.autohide
+  icon:
+    logo: material/account-circle
+
+extra_css:
+  - assets/stylesheets/logo-style.css
 
 plugins:
   - search
@@ -100,11 +108,3 @@ extra:
       link: https://www.youtube.com/@TheDigitalWordsmith
       name: YouTube
   generator: false
-
-extra_css:
-  - stylesheets/custom.css
-
-extra_javascript:
-  - javascripts/custom.js
-  - javascripts/analytics.js
-  - javascripts/gtag.js
