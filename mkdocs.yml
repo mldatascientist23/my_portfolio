@@ -1,0 +1,110 @@
+site_name: Engr. Hamesh Raj | Data Scientist & ML Engineer
+site_description: Portfolio of ML projects, blogs, skills, and resume by Engr. Hamesh Raj
+site_author: Engr. Hamesh Raj
+site_url: https://your-portfolio-url.com
+
+repo_url: https://github.com/mldatascientist23
+repo_name: GitHub
+
+nav:
+  - 🏠 Home: index.md
+  - 💼 Projects: projects.md
+  - 🧠 Skills: skills.md
+  - ✍️ Blog: blogs.md
+  - 📄 Resume: resume.md
+  - 📬 Contact: contact.md
+  - 🙋 About Me: about.md
+
+theme:
+  name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  font:
+    text: Roboto
+    code: JetBrains Mono
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+    - scheme: slate
+      primary: teal
+      accent: amber
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - toc.integrate
+    - content.tabs.link
+    - content.code.annotate
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+    - content.footnotes
+    - content.social.cards
+    - content.meta
+    - content.back-to-top
+    - announce.dismiss
+    - header.autohide
+
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized
+  - blog:
+      blog_dir: blogs
+      post_date_format: "%B %d, %Y"
+  - glightbox
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - footnotes
+  - def_list
+  - attr_list
+  - meta
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mldatascientist23
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mldatascientist23/
+      name: LinkedIn
+    - icon: fontawesome/brands/kaggle
+      link: https://www.kaggle.com/hameshraj
+      name: Kaggle
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/DataScientist27
+      name: Twitter (X)
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@TheDigitalWordsmith
+      name: YouTube
+  generator: false
+
+extra_css:
+  - stylesheets/custom.css
+
+extra_javascript:
+  - javascripts/custom.js
+  - javascripts/analytics.js
+  - javascripts/gtag.js
