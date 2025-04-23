@@ -1,5 +1,5 @@
 # 🚀 Engr. Hamesh Raj's AI Portfolio - Complete Guide  
-**🌐 Live:** [mldatascientist23.github.io/my_portfolio](https://mldatascientist23.github.io/my_portfolio) | **💻 Code:** [GitHub](https://github.com/mldatascientist23/my_portfolio)  
+**🌐 Live:** [mldatascientist23.github.io/my_portfolio](https://mldatascientist23.github.io/my_portfolio) | **💻 Code:** [GitHub](https://github.com/mldatascientist23)  
 
 ---
 
@@ -11,7 +11,7 @@
   ✉️ [10sw84@student.muet.edu.pk](mailto:10sw84@student.muet.edu.pk) | 📞 +92-345-8683817 | 📍 Umerkot, Sindh, Pakistan  
 - 🌐 **Social Links:**  
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mldatascientist23)  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mldatascientist23)  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/datascientisthameshraj/)
   [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/hameshraj)  
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x)](https://twitter.com/DataScientist27)  
   [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://youtube.com/@TheDigitalWordsmith)  
@@ -109,7 +109,7 @@ MkDocs will automatically build your site and push it to the `gh-pages` branch o
 Revisit or share this guide anytime. If you found it helpful, follow or reach out via:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/mldatascientist23)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mldatascientist23)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/datascientisthameshraj/)  
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/hameshraj)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x)](https://twitter.com/DataScientist27)  
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://youtube.com/@TheDigitalWordsmith)  
